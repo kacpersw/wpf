@@ -1,0 +1,67 @@
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.g.cs
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\App.g.cs
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.cache
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.lref
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe.config
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.pdb
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.baml
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.g.resources
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.Properties.Resources.resources
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csproj.GenerateResource.Cache
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.exe
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.pdb
+C:\Users\Ibra18plus\Desktop\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe.config
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.pdb
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\App.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.cache
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.lref
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.baml
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.g.resources
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.Properties.Resources.resources
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csproj.GenerateResource.Cache
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.exe
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.pdb
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\Add.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\Add.baml
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe.config
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.exe
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.pdb
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.pdb
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\Add.g.cs
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\App.g.cs
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.cache
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.lref
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\Add.baml
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.baml
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.g.resources
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.Properties.Resources.resources
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csproj.GenerateResource.Cache
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe.config
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.exe
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\bin\Debug\ObsługaDanych.pdb
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csprojResolveAssemblyReference.cache
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\Add.g.cs
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.g.cs
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\App.g.cs
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.cache
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych_MarkupCompile.lref
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\Add.baml
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\MainWindow.baml
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.g.resources
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.Properties.Resources.resources
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csproj.GenerateResource.Cache
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.csproj.CoreCompileInputs.cache
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.exe
+E:\Politechnika\Obecne\Semestr 4\WPF\PS8\ObsługaDanych\ObsługaDanych\obj\Debug\ObsługaDanych.pdb

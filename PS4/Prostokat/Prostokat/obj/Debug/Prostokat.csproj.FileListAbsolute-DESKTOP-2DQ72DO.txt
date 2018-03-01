@@ -1,0 +1,14 @@
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\bin\Debug\Prostokat.exe.config
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\bin\Debug\Prostokat.exe
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\bin\Debug\Prostokat.pdb
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\App.g.cs
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat_MarkupCompile.cache
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat_MarkupCompile.lref
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\MainWindow.baml
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat.g.resources
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat.Properties.Resources.resources
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat.csproj.GenerateResource.Cache
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat.exe
+C:\Users\Kacper\OneDrive\Katalog Roboczy\Prostokat\Prostokat\obj\Debug\Prostokat.pdb

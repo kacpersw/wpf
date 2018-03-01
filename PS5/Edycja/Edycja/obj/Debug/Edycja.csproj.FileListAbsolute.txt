@@ -1,0 +1,71 @@
+C:\Users\Kacper\Desktop\Edycja\Edycja\bin\Debug\Edycja.exe.config
+C:\Users\Kacper\Desktop\Edycja\Edycja\bin\Debug\Edycja.exe
+C:\Users\Kacper\Desktop\Edycja\Edycja\bin\Debug\Edycja.pdb
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\MainWindow.baml
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\App.g.cs
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja_MarkupCompile.cache
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja.g.resources
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja.Properties.Resources.resources
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja.csproj.GenerateResource.Cache
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja.exe
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\Edycja.pdb
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\UserDlg.baml
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\UserDlg.g.cs
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\EditUser.baml
+C:\Users\Kacper\Desktop\Edycja\Edycja\obj\Debug\EditUser.g.cs
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\bin\Debug\Edycja.exe.config
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.exe
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.pdb
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\bin\Debug\Edycja.exe
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\bin\Debug\Edycja.pdb
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\EditUser.baml
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\MainWindow.baml
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\UserDlg.baml
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\EditUser.g.cs
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\MainWindow.g.cs
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\UserDlg.g.cs
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\App.g.cs
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja_MarkupCompile.cache
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.g.resources
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.Properties.Resources.resources
+C:\Users\Ibra18plus\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.csproj.GenerateResource.Cache
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\bin\Debug\Edycja.exe.config
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.exe
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.pdb
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\bin\Debug\Edycja.exe
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\bin\Debug\Edycja.pdb
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\EditUser.baml
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\MainWindow.baml
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\UserDlg.baml
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\EditUser.g.cs
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\MainWindow.g.cs
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\UserDlg.g.cs
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\App.g.cs
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja_MarkupCompile.cache
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.g.resources
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.Properties.Resources.resources
+C:\Users\Kacper\OneDrive\Katalog Roboczy\WPF\Edycja\Edycja\obj\Debug\Edycja.csproj.GenerateResource.Cache
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\bin\Debug\Edycja.exe.config
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.exe
+C:\Users\Kacper\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.pdb
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\bin\Debug\Edycja.exe.config
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\bin\Debug\Edycja.exe
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\bin\Debug\Edycja.pdb
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.csprojResolveAssemblyReference.cache
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\EditUser.baml
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\MainWindow.baml
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\UserDlg.baml
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\EditUser.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\MainWindow.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\UserDlg.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\App.g.cs
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja_MarkupCompile.cache
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.g.resources
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.Properties.Resources.resources
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.csproj.GenerateResource.Cache
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.exe
+C:\Users\Ibra18plus\OneDrive\Semestr IV\WPF\PS5\Edycja\Edycja\obj\Debug\Edycja.pdb

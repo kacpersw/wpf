@@ -1,0 +1,45 @@
+﻿<Window x:Class="Hanoi.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:self="clr-namespace:Hanoi"
+    Title="Hanoi" Width="400" SizeToContent="Height" FontSize="20">
+    <Window.CommandBindings>
+        <CommandBinding Command="self:HanoiCommands.Up" CanExecute="HanoiCommandsUp_CanExecute" Executed="HanoiCommandsUp_Executed"></CommandBinding>
+        <CommandBinding Command="self:HanoiCommands.Down" CanExecute="HanoiCommandsDown_CanExecute" Executed="HanoiCommandsDown_Executed"></CommandBinding>
+    </Window.CommandBindings>
+
+    <Grid Margin="3">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Grid.ColumnSpan="3" Margin="3" IsReadOnly="True" HorizontalContentAlignment="Center" Name="txt"/>
+        <WrapPanel Grid.Row="1" HorizontalAlignment="Center">
+            <Button Command="self:HanoiCommands.Up" CommandParameter="{Binding ElementName=A}"  Margin="3" Padding="10, 5">&#x2191;</Button>
+            <Button Command="self:HanoiCommands.Down" CommandParameter="{Binding ElementName=A}" Margin="3" Padding="10, 5">&#x2193;</Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center">
+            <Button Command="self:HanoiCommands.Up" CommandParameter="{Binding ElementName=B}" Margin="3" Padding="10, 5">&#x2191;</Button>
+            <Button Command="self:HanoiCommands.Down" CommandParameter="{Binding ElementName=B}" Margin="3" Padding="10, 5">&#x2193;</Button>
+        </WrapPanel>
+        <WrapPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center">
+            <Button Command="self:HanoiCommands.Up" CommandParameter="{Binding ElementName=C}" Margin="3" Padding="10, 5">&#x2191;</Button>
+            <Button Command="self:HanoiCommands.Down" CommandParameter="{Binding ElementName=C}" Margin="3" Padding="10, 5">&#x2193;</Button>
+        </WrapPanel>
+        <ListBox Name="A" Grid.Row="2" Margin="15,3" VerticalAlignment="Bottom" HorizontalContentAlignment="Center" >
+            <ListBoxItem>1</ListBoxItem>
+            <ListBoxItem>2</ListBoxItem>
+            <ListBoxItem>3</ListBoxItem>
+            <ListBoxItem>4</ListBoxItem>
+            <ListBoxItem>5</ListBoxItem>
+        </ListBox>
+        <ListBox Name="B" Grid.Row="2" Grid.Column="1" Margin="15,3" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+        <ListBox Name="C" Grid.Row="2" Grid.Column="2" Margin="15,3" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+    </Grid>
+</Window>
